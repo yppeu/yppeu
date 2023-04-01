@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold"/>
+<img src="http://mazandi.herokuapp.com/api?yppeu={yppeu}&theme=cold"/>
